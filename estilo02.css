@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.blc{
+background-color:#206d0b;
+height: 150px;
+color: #ffffff;
+text-align: center;
+justify-content: center;
+font: bolder 45px times;
+
+h1{
+    text-align: center;
+    padding: 30px;
+}
+
+}
+
+body{
+    margin: 0;
+}
+
+.banner{
+    background-image: url(fundologin.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 50vh;
+}
+
+.container {
+    display: flex;
+  }
+.bloco{
+    background-color: #206d0b;
+    color:  #faef9b;
+    height: 100vh;
+    width: 100%;
+    margin: 0; 
+    font-family: Arial, sans-serif;
+    border-color: black;
+    text-align: center;
+    padding: 100px;  
+}
+.texts1{
+        font:normal 25px times;
+    }
+
+.bloco1{
+    background-color:  #faef9b;
+    color: #206d0b;
+    height: 100vh;
+    width: 100%;
+    margin: 0; 
+    font-family: Arial, sans-serif;
+    border-color: black;
+    text-align: center;
+    padding: 100px;
+
+
+    .texts2{
+        font:normal 25px times;
+    }    
+
+}

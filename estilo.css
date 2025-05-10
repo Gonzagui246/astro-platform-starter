@@ -1,0 +1,61 @@
+body{
+    background-image: url(fundologin.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    color: white;
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+}
+    
+section h1{
+   font: bold 35pt times;
+   text-align: center;
+   color: #faef9b;
+} 
+    
+section{
+    background-color:  #0e6917;  
+    border-radius: 35pt;
+    text-align: center;
+    height: 500px;
+    width: 450px;
+    font: normal 20px times;
+    color: #faef9b;
+}
+
+input#email{
+    background-color: #faef9b;
+    font: normal 20pt times;
+    height: 30pt;
+    width: 90%;
+    text-align: center;
+    color: #206d0b;
+}
+input#senha{
+    background-color: #faef9b;
+    font: normal 20pt times;
+    height: 30pt;
+    width: 90%;
+    text-align: center;
+    color:#206d0b;
+} 
+input#btn{
+    background:  #859a54;
+    font: normal 22pt times;
+    color: #faef9b;
+    height: 30pt;
+    width: 297pt;
+    margin-top:25pt;
+    cursor: pointer;
+
+}
+input#btn:hover{
+    background-color:white;
+    color: black;
+}
